@@ -1,4 +1,4 @@
-# 
+# vip Polymarket Plugin | trade-sniping + custom-strategies offers the most advanced Polymarket plugin, with trade-sniping and custom-strategies. Ideal for professional traders and
 
 
 
